@@ -1,0 +1,11 @@
+{
+    "android": {
+        "clear": "//*[@content-desc='C']",
+        "numberKeys": "//*[@content-desc='{key}']"
+    },
+    "ios": {
+        "clear": "//*[@content-desc='C']",
+        "numberKeys": "//*[@content-desc='{key}']"
+    }
+
+}

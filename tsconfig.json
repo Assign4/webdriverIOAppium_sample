@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "NodeNext",
+      "module": "NodeNext",
+      "allowJs": true,
+      "target": "es2017",
+      "types": [
+        "node",
+        "@wdio/globals/types",
+        "expect-webdriverio",
+        "@wdio/cucumber-framework",
+        "@wdio/appium-service",
+        "@wdio/devtools-service",
+      ],
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "allowImportingTsExtensions": true,
+      "resolveJsonModule": true,
+      "strict": true,
+    }
+  }
+  
